@@ -37,7 +37,8 @@
 - `stage_4_5_download_commit_project_pairs.py:` Download APK-project pairs.
 - `stage_4_6_check_commit_project_pair.py:` Verify APK-project pairs.
 
-
+## 5. Benchmark Construction:
+- `stage_5_benchmark_construction.py:` Construct the final benchmark, report commit counts, human-verified APK numbers, and kappa values for verification.
 
 # Requirements:
 Install [Ollama](https://ollama.com/download) to support Llama3 for running the code.
