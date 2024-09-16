@@ -1,0 +1,9 @@
+###Commit_Title
+    MainLoop,Scene: Add busy percentage in CPU time results
+
+
+###Commit_Description
+    Show the whole system CPU busy percentage when reporting CPU time
+    results, to provide an indication of whether the benchmark is CPU bound,
+    i.e., whether the benchmark would possibly benefit from more CPU
+    capacity.

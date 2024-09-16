@@ -1,0 +1,6 @@
+###Commit_Title
+    Merge pull request #448 from perpetualjourney/master
+
+
+###Commit_Description
+    Fixed a possible resource leak linked to a SQL cursor

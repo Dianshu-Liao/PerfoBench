@@ -1,0 +1,7 @@
+###Commit_Title
+    Fix shake listener not unregistering after utterance.
+
+
+###Commit_Description
+    -Allowed shake message to apply in Log long after speaking completed.
+    -Possible cause of excessive battery drain reported by a couple users.

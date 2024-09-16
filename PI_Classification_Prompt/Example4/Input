@@ -1,0 +1,6 @@
+###Commit_Title
+    GLK: Remove Zero Sized Allocation from Quetzal Code
+
+
+###Commit_Description
+    The behaviour of malloc and similar functions when called with a zero sized parameter is implementation dependent resulting in subtle portability bugs and should be avoided. This will generate warnings in GCC if -Walloc-zero is passed.

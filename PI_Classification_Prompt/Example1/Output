@@ -1,0 +1,6 @@
+###Optimized_Performance_Issue_Type
+    [Energy Consumption, Memory Consumption]
+
+
+###Root_Causes
+    [resource leak]
